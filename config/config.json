@@ -14,8 +14,8 @@
   {
     "url"      : "127.0.0.1",
     "dbname"   : "openmonero",
-    "user"     : "root",
-    "password" : "root"
+    "user"     : "julz",
+    "password" : "julz"
   },
   "wallet_import" :
   {

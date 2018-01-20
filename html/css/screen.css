@@ -433,7 +433,8 @@ table {
   margin-left: 80px;
   padding: 10px 40px 25px;
   border-radius: 2px;
-  background-color: white;
+  background-color: #000;
+  border: 2px solid #928315;
 }
 
 /* line 18, ../sass/screen.scss */

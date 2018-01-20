@@ -1654,3 +1654,8 @@ textarea.w-select {
   padding: 10px;
   background-color: #ffdede;
 }
+
+.logo{
+  max-width: 250px;
+  width: 100%;
+}

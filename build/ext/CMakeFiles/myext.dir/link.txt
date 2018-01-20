@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmyext.a  CMakeFiles/myext.dir/format.cc.o
+/usr/bin/ranlib libmyext.a
